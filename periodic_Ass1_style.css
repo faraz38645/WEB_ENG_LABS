@@ -1,0 +1,244 @@
+.title{
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-top: 5%;
+    font-family: marker;
+    font-size: 70px;
+    color:rgb(255, 209, 5);
+    opacity: 1;
+    
+    
+}
+
+
+#back{
+    margin: 0%;
+    background-color: black;
+    background-image: url('./Assets/images/sonika-agarwal-DyyPIdim9lY-unsplash.jpg');
+  
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    
+    
+}
+
+
+
+
+#T2{
+    padding-left: 143px;
+}
+
+
+
+
+
+@font-face {
+    src: url(Assets/fonts/PermanentMarker-Regular.ttf);
+    font-family: marker;
+}
+
+@font-face {
+    font-family:Russo;
+    src: url(Assets/fonts/RussoOne-Regular.ttf);
+}
+
+
+body{
+    
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+
+}
+
+
+table {
+    border-spacing: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    table-layout:auto;
+
+    
+    
+
+}
+
+
+
+
+tr{
+    
+
+}
+
+sup{
+    font-family: marker;
+    
+}
+
+
+
+td{
+    padding: 10px;
+    width:43px;
+    font-family: Russo;
+    font-size: large;
+
+                
+}
+
+
+.blank{
+
+    background-color:rgba(233, 225, 225, 0);
+    width:0.1ch
+    
+}
+
+.alkali{
+    background-color:rgb(26, 215, 218);
+    color: #124343;
+    transition: transform 0.5s ease-in-out;
+
+}
+
+.alkali:hover{
+    transition: 0.5s;
+    transform: scale(1.8) ;
+    background-color:rgba(0, 255, 255, 0.518);
+    color: white;
+
+
+}
+
+
+
+.alkaline{
+    background-color:rgb(225, 29, 29);
+    color: rgb(85, 15, 15);
+    transition: 0.5s ease-in-out;
+}
+
+.alkaline:hover{
+    transform: scale(1.8);
+    transition: 0.5s;
+    background-color: rgba(255, 0, 0, 0.649);
+    color: white;
+}
+
+
+.reactive{
+    background-color:#7CB9E8;
+    color: #00308F;
+    transition:0.5s ease-in-out;
+    
+
+}
+
+.reactive:hover{
+    transition: 0.5s;
+    transform: scale(1.8) ;
+    background-color:rgba(0, 0, 255, 0.466);  
+    color: white; 
+}
+
+
+
+.transition{
+    background-color: #6e64b8;
+    color: rgb(70, 24, 70);
+    transition: 0.5s ease-in-out;
+}
+
+.transition:hover{
+    transition: 0.5s;
+    transform: scale(1.8) ;
+    background-color: rgba(128, 0, 128, 0.591);
+    color: white;
+}
+
+.post_transition{
+    background-color: rgba(7, 143, 7, 0.946);
+    color: rgb(16, 53, 16);
+    transition: 0.5s ease-in-out;
+}
+
+.post_transition:hover{
+    transition: 0.5s;
+    transform: scale(1.8) ;
+    background-color: rgba(8, 250, 8, 0.598);
+    color:white;
+}
+
+
+.metalloids{
+    background-color: rgba(255, 255, 0, 0.908);
+    color: rgb(79, 79, 11);
+    transition: 0.5s ease-in-out;
+
+}
+
+.metalloids:hover{
+    transition: 0.5s;
+    transform: scale(1.8) ;
+    background-color: rgba(206, 206, 4, 0.704);
+    color:white;
+}
+
+.noble_gases{
+    background-color:rgba(249, 49, 82, 0.92);
+    color: rgb(109, 22, 36);
+    transition: 0.5s ease-in-out;
+
+}
+.noble_gases:hover{
+    transition: 0.5s;
+    transform: scale(1.8) ;
+    background-color: rgba(255, 192, 203, 0.84);
+    color: white;
+}
+
+.unknown{
+
+    background-color: rgb(128, 128, 128);
+    color: rgb(69, 66, 66);
+    transition: 0.5s ease-in-out;
+}
+
+.unknown:hover{
+    transition: 0.5s;
+    transform: scale(1.8) ;
+    background-color: rgba(128, 128, 128, 0.767);
+    color: white;
+}
+
+.lanthanides{
+
+    background-color:rgb(7, 244, 244);
+    color: rgb(8, 92, 92);
+    transition: 0.5s ease-in-out;
+}
+
+.lanthanides:hover{
+    transition: 0.5s;
+    transform: scale(1.8) ;
+    background-color:rgba(0, 166, 255, 0.686) ;
+    color: white;
+}
+
+
+.actinides{
+    background-color: rgba(255, 166, 0, 0.951);
+    color: rgb(114, 83, 26);
+    transition: 0.5s ease-in-out;
+}
+
+.actinides:hover{
+    transition: 0.5s;
+    transform: scale(1.8) ;
+    background-color: rgba(255, 166, 0, 0.806);
+    color: white;
+}
