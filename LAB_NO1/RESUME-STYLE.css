@@ -1,0 +1,114 @@
+
+
+.divison1 {
+    
+    width: 30%  ;
+    float: left;
+    
+
+}
+.divison2 {
+    
+    width: 50%;
+    float: left;
+   
+
+}
+.divison3 {
+    
+    float: right;
+    width: 70%;
+    text-align:left ;
+    margin-top: 17.37%;
+}
+
+.divison4 {
+    
+    width: 30%;
+    float: left;
+    margin-top: 16%;
+    
+} 
+.ul2{
+    padding-left: 0%;
+}
+
+.ul1{
+    padding-left: 3%;
+}
+
+p{
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+ul{
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+h2{
+    position: relative;
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.ok{
+    margin-bottom: 12cm;
+}
+
+.border1{
+    background-color:orangered;
+    width: 70%;
+    height: 15px;
+    margin-bottom:-2%;
+}
+
+.border2{
+    background-color:orangered;
+    width: 85%;
+    height: 15px;
+    margin-bottom:-2%;
+}
+
+.border3{
+    background-color:orangered;
+    width: 63%;
+    height: 15px;
+    margin-bottom:-1%;
+}
+.border4{
+    background-color:orangered;
+    width: 74%;
+    height: 15px;
+    margin-bottom:-2%;
+}
+
+body {
+    background-image: url(hello.jpg);
+    mix-blend-mode:darken;  
+    background-size: cover;
+    background-position: top center;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color:rgba(6, 6, 6, 0.196);
+    left: 0px;
+    outline-style:ridge;
+    outline-color:coral;
+   
+}
+
+.first{
+
+    padding-left: 7px;
+    
+    
+}
+
+
+
+
+
